@@ -1,5 +1,5 @@
 # Balance
-Compiler to check for balanced brackets
+Checks for balanced brackets within a file.
 Enter a file (or use balance.cpp) and it will check to make sure everything is balanced
 
 1) clone the repository:
