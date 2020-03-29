@@ -8,6 +8,8 @@ Enter a file (or use balance.cpp) and it will check to make sure everything is b
            
            $ git clone https://www.github.com/nigellipps/Balance.git
            
+           $ cd Balance
+           
 
 2) To run: $ make
 
