@@ -1,5 +1,5 @@
 # Balance
-Checks for balanced brackets within a file.
+Checks for balanced brackets within a file (makes sure every open bracket has a closing bracket).
 Enter a file (or use balance.cpp) and it will check to make sure everything is balanced
 
 1) clone the repository:
@@ -11,7 +11,9 @@ Enter a file (or use balance.cpp) and it will check to make sure everything is b
            $ cd Balance
            
 
-2) To run: $ make
+2) To run: 
+           
+           $ make
 
            $ ./run
            
